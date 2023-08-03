@@ -3,7 +3,7 @@ Multiple Choice Quiz App
 ## Introduction
 - The Multiple Chocie Quiz App is a web application that allows users to take a quiz with multiple-choice questions from four categories.
 ## Live Demo
-- Check out the [live demo]([https://www.example.com](https://mod-2-quiz-app.netlify.app)) to see the project.
+- Check out the [live demo](https://mod-2-quiz-app.netlify.app) to see the project.
 # Features
 - User can enter their name before starting the quiz.
 - User can select a category,there are four category to choose from.
