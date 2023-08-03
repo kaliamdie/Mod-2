@@ -22,10 +22,10 @@ Multiple Choice Quiz App
 - Material-UI
 ## Installation
 1. Clone the repository to your local machine using the following 
-command:```https://github.com/kaliamdie/Mod-2.git
-2. Navigate to the project folder:
-3. Install the required dependencies using npm:
-4. Start the development server:
+command:```https://github.com/kaliamdie/Mod-2.git```
+ Navigate to the project folder:
+2. Install the required dependencies with `nom install`.
+4. Start the development server with `npm start`.
 ## Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Stack OverFlow](https://stackoverflow.com/)
