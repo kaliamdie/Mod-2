@@ -24,7 +24,7 @@ Multiple Choice Quiz App
 1. Clone the repository to your local machine using the following 
 command:```https://github.com/kaliamdie/Mod-2.git```
  Navigate to the project folder:
-2. Install the required dependencies with `nom install`.
+2. Install the required dependencies with `npm install`.
 4. Start the development server with `npm start`.
 ## Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
