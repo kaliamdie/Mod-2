@@ -16,6 +16,7 @@ Multiple Choice Quiz App
 - React
 - React Router
 - Bootstrap
+- CSS
 - Material-UI
 ## Installation
 1. Clone the repository to your local machine using the following 
