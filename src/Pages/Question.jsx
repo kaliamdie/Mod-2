@@ -95,7 +95,7 @@ export default function Question({
           </Button>
         </div>
         {/* Timer display */}
-        <div>
+        <div style={{fontSize:20}}>
           Time Remaining: {timer}
         </div>
       </div>

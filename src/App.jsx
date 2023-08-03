@@ -2,7 +2,7 @@
 import './App.css';
 import './index.css';
 import { Route, Routes } from 'react-router-dom';
-import Header from './components/Header';
+
 import Home from './Pages/Home';
 import Setting from './Pages/Setting';
 import MultipleChoice from './Pages/MultipleChoice';
@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
+     
       <Routes>
         <Route path="/" element={<Home />} />
         <Route
