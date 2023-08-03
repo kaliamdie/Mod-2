@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app{
+  min-height: 98vh;
+  border: 5px solid #48284A;
+  margin: 4px;
+  padding: 70px;
+  background-size: cover;
+  
+
+}
+
+p{
+  font-size: 25px;
+
+}
+.home{
+  text-decoration:underline;
+  text-decoration-color:white;
+  color: white;
+  font-size: 40px;
+  transition: all 0.4s ease;
+}
+.home:hover{
+color: black;
+}
+.setting-app{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
+  min-height: 98vh;
+  border: 5px solid black;
+  margin: 4px;
+  padding: 4px;
+ 
+}
+.multiple-app{
+  background-size: cover;
+  min-height: 170vh;
+
+  margin: 4px;
+  padding: 7px;
+ 
+}
+
+.results{
+  background-color: black;
+  color: white;
+margin: 10px;
+padding: 200px; 
+ }
+::-webkit-scrollbar{
+  width: 8px;
+}
+ .quiz{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+ 
+
+}
+.image {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+
+
+}
+img{
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+.setting{
+  color:black;
+  font-size: 50px;
+  text-align: center;
+  margin: 100px;
+
+  
+}
+.selects{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width:100%;
+  flex:0.8;
+  justify-content: space-evenly;
+}
